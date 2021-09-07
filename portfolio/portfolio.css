@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #495057;
+}
+
+#sertificate {
+  background-color: #495057;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+img.img-thumbnail {
+  background-color: white;
+  border-color: #212529;
+}
+
+body {
+  background-color: #ced4da;
+}
